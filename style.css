@@ -1,0 +1,14 @@
+.box{
+border: 1px solid black;
+height: 200px;
+width: 150px;
+background-image: linear-gradient(blue,pink,purple);
+background-image: linear-gradient(to right ,blue,pink,purple);
+background-image: linear-gradient(to top right,blue,pink,purple);
+}
+.mydiv{
+    border: 1px solid black;
+    height: 500px;
+    width: 500px; 
+    background-image: radial-gradient(black,grey);
+}
